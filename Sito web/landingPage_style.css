@@ -1,0 +1,256 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-size: inherit;
+  font-family: "Poppins";
+  scroll-behavior: smooth;
+}
+
+body {
+  background: url("immagine2.jpg");
+  overflow-x: hidden;
+  font-size: 20px;
+}
+
+.title {
+  font-size: xx-large;
+  letter-spacing: .15em;
+}
+
+.title-container {
+  position: sticky;
+  background-color: black;
+  color: white;
+  top: 0;
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-items: center;
+  justify-content: space-between;
+  padding: 3vh;
+  
+}
+
+.imageLogo {
+  height: 100%;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-items: stretch;
+  justify-content: stretch;
+  gap: 5vh;
+  padding: 5em 3em;
+}
+
+.result-container {
+  display: none;
+  flex-direction: column;
+  align-items: stretch;
+  justify-items: stretch;
+  justify-content: stretch;
+  gap: 5vh;
+  padding: 10vw;
+}
+
+/* ----- CUSTOM BUTTON ----- */
+
+.personalized-button {
+  background-color: transparent;
+
+  padding: 0.4em 0.3em;
+
+  border-radius: 10px;
+  color: black;
+  border: 3px solid black;
+
+  letter-spacing: 1px;
+
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.personalized-button:hover {
+  background-color: black;
+  color: white;
+}
+
+.personalized-button:disabled,
+.personalized-button:disabled:hover {
+  border-color: gray;
+  background-color: transparent;
+  color: black;
+  cursor: not-allowed;
+}
+
+.blue-colored-button {
+  border: 3px solid deepskyblue;
+  color: deepskyblue;
+}
+
+.blue-colored-button:hover {
+  background-color: deepskyblue;
+}
+
+.green-colored-button {
+  border: 3px solid crimson;
+  color: crimson;
+}
+
+.green-colored-button:hover {
+  background-color: crimson;
+}
+
+.orange-colored-button {
+  border: 3px solid white;
+  color: white;
+}
+
+.orange-colored-button:hover {
+  background-color: white;
+  color: black;
+}
+
+/* ----- CUSTOM SELECT ----- */
+
+.custom-select {
+  padding: 0.25em;
+  color: var(--testoSelect);
+  border: 0;
+  border-bottom: 2px solid black;
+  background-color: transparent;
+  font-weight: bold;
+  letter-spacing: 0.15em;
+  border-radius: 0;
+}
+
+.custom-select option {
+  color: black;
+}
+
+.custom-select option[value=""],
+.custom-select option:disabled {
+  color: black;
+}
+
+.custom-select option:focus {
+  color: black;
+  outline: none;
+  border-color: #0077ff;
+  box-shadow: 0 0 0 2px rgba(#0077ff, 0.2);
+}
+
+.custom-select:focus,
+.custom-select:hover,
+.custom-select:active {
+  outline: none;
+  border-bottom-color: white;
+}
+
+/* ----- SCROLLBAR ----- */
+::-webkit-scrollbar {
+  width: 1vw;
+}
+
+::-webkit-scrollbar-track {
+  background: white;
+}
+
+::-webkit-scrollbar-thumb {
+  background: lightgray;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: gray;
+}
+
+/* ----- CARD CONTAINER ----- */
+
+.card-container {
+  display: flex;
+  align-items: stretch;
+  align-content: center;
+  justify-content: center;
+  flex-direction: row;
+  gap: 1em;
+  flex-wrap: unset;
+}
+
+.card-title {
+  font-size: x-large;
+}
+
+
+.video-container {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  justify-items: center;
+  padding: 3px;
+}
+
+.info-container {
+  background-color: var(--bgCard);
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  align-content: stretch;
+  justify-items: stretch;
+  justify-content: stretch;
+  padding: 1em;
+  flex-grow: 1;
+  gap: 1em;
+}
+
+.title-content-container {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  align-content: stretch;
+  justify-items: stretch;
+  justify-content: stretch;
+}
+
+
+.title-content-title {
+  display: inline-block;
+  text-transform: uppercase;
+  white-space: nowrap;
+  font-size: large;
+  color: var(--labelEsercizio);
+  text-overflow: ellipsis;
+}
+
+.title-content-content {
+  display: inline-block;
+  white-space: nowrap;
+  font-size: x-large;
+  color: var(--coloreContent);
+  text-overflow: ellipsis;
+}
+
+.personalized-details {
+  color: var(--coloreContent);;
+  cursor: pointer;
+  font-size: large;
+  text-overflow: ellipsis;
+  white-space: pre-wrap;
+}
+
+
+.personalized-details>summary {
+  color: var(--labelEsercizio);
+  white-space: nowrap;
+}
+
+:root {
+  --coloreContent: black;
+  --labelEsercizio: crimson;
+  --bgCard: #FFFFFF95;
+  --testoSelect: white;
+}

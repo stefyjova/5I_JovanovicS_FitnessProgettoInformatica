@@ -1,0 +1,7 @@
+GET HTTP://localhost:5206/api/Esercizi/Muscoli HTTP/1.1
+
+###
+
+GET HTTP://localhost:5206/api/Esercizi/Random HTTP/1.1
+
+###

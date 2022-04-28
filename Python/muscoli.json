@@ -1,0 +1,26 @@
+[
+  {
+    "MuscoloID": 1,
+    "Descrizione": "Petto"
+  },
+  {
+    "MuscoloID": 2,
+    "Descrizione": "Bicipiti"
+  },
+  {
+    "MuscoloID": 3,
+    "Descrizione": "Tricipiti"
+  },
+  {
+    "MuscoloID": 4,
+    "Descrizione": "Deltoidi"
+  },
+  {
+    "MuscoloID": 5,
+    "Descrizione": "Dorsali"
+  },
+  {
+    "MuscoloID": 6,
+    "Descrizione": "Gambe"
+  }
+]

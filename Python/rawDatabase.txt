@@ -1,0 +1,16 @@
+TABELLA MUSCOLI
+ID;NOME_MUSCOLO
+1;Petto
+2;Bicipiti
+3;Tricipiti
+4;Deltoidi
+5;Dorsali
+6;Gambe
+
+
+
+
+TABELLA ESERCIZI
+ID;NOME_ESERCIZIO;DESCRIZIONE;NUMERO_SERIE;NUMERO_RIPETIZIONI;RECUPERO_sec;FK_MUSCOLO;
+1;Panca piana;posizionarsi sulla panca piana con le scapole addotte, le spalle depresse, la presa sul bilancere leggermente più larga delle spalle, formare un piccolo arco con la schiena. Una volta posizionati staccare il bilancere ed eseguire le ripetizioni scendendo lentamente e salendo con esplosività ;5;5;90;1
+

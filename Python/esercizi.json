@@ -1,0 +1,242 @@
+[
+  {
+    "EsercizioID": 1,
+    "NomeEsercizio": "Panca Piana",
+    "Descrizione": "Posizionarsi sulla panca piana con le scapole addotte, le spalle depresse, la presa sul bilancere leggermente pi\u00c3\u00b9 larga delle spalle, formare un piccolo arco con la schiena. Una volta posizionati staccare il bilancere ed eseguire le ripetizioni scendendo lentamente e salendo con esplosivit\u00c3\u00a0.",
+    "NumeroSerie": 5,
+    "NumeroRipetizioni": 5,
+    "SecondiRecupero": 90,
+    "MuscoloID": 1,
+    "VideoURL": "'https://www.youtube.com/embed/GkAUg4-BC10'"
+  },
+  {
+    "EsercizioID": 2,
+    "NomeEsercizio": "Croci con Manubri",
+    "Descrizione": "Posizionarsi sulla panca piana con le scapole addotte e le spalle depresse, portarsi i manubri all&apos;altezza del petto e con le braccia leggermente piegate. Una volta posizionati scendere e risalire con le braccia, lentamente seguendo la linea del petto.",
+    "NumeroSerie": 4,
+    "NumeroRipetizioni": 8,
+    "SecondiRecupero": 60,
+    "MuscoloID": 1,
+    "VideoURL": "'https://www.youtube.com/embed/GkAUg4-BC10'"
+  },
+  {
+    "EsercizioID": 3,
+    "NomeEsercizio": "Panca Inclinata Bilancere",
+    "Descrizione": "Posizionarsi sulla panca inclinata di 45\u00c2\u00b0 con le scapole addotte e le spalle depresse, la presa sul bilancere leggermente pi\u00c3\u00b9 larga delle spalle, formare un piccolo arco con la schiena. Una volta posizionati staccare il bilancere ed eseguire le ripetizioni scendendo lentamente e salendo con esplosivit\u00c3\u00a0.",
+    "NumeroSerie": 4,
+    "NumeroRipetizioni": 12,
+    "SecondiRecupero": 90,
+    "MuscoloID": 1,
+    "VideoURL": "'https://www.youtube.com/embed/GkAUg4-BC10'"
+  },
+  {
+    "EsercizioID": 4,
+    "NomeEsercizio": "Push Up",
+    "Descrizione": "Posizionarsi con il volto rivolto verso terra, le gambe unite e parallele, il busto sollevato, le mani leggermente pi\u00c3\u00b9 large delle spalle e posizionate all&apos;altezza dei capezzoli. Una volta posizionati scendere e spingere pensando di farlo con il petto, il volto deve sfiorare il pavimento.",
+    "NumeroSerie": 5,
+    "NumeroRipetizioni": 20,
+    "SecondiRecupero": 60,
+    "MuscoloID": 1,
+    "VideoURL": "'https://www.youtube.com/embed/GkAUg4-BC10'"
+  },
+  {
+    "EsercizioID": 5,
+    "NomeEsercizio": "Bicipite Curl Manubri",
+    "Descrizione": "Posizionarsi in piedi con i piedi paralleli e le gambe leggermente piegate, il busto eretto e con un manubrio per mano. Una volta posizionati sollevare i manubri in alternanza, un braccio alla volta, muovendo solo l&apos;avambraccio cercando di tenere la spalla ferma e girando il polso.",
+    "NumeroSerie": 4,
+    "NumeroRipetizioni": 10,
+    "SecondiRecupero": 60,
+    "MuscoloID": 2,
+    "VideoURL": "'https://www.youtube.com/embed/GkAUg4-BC10'"
+  },
+  {
+    "EsercizioID": 6,
+    "NomeEsercizio": "Bicipite Hammer",
+    "Descrizione": "Posizionarsi in piedi con i piedi paralleli e le gambe leggermente piegate, il busto eretto e con un manubrio per mano. Una volta posizionati sollevare i manubri in alternanza, un braccio alla volta, muovendo solo l&apos;avambraccio cercando di tenere la spalla ferma tenendo il polso fermo immaginando di tenere un martello in mano.",
+    "NumeroSerie": 3,
+    "NumeroRipetizioni": 12,
+    "SecondiRecupero": 60,
+    "MuscoloID": 2,
+    "VideoURL": "'https://www.youtube.com/embed/GkAUg4-BC10'"
+  },
+  {
+    "EsercizioID": 7,
+    "NomeEsercizio": "Bicipite Panca Scott",
+    "Descrizione": "Posizionarsi con le braccia appoggiate sulla panca scott e successivamente scendere e salire lentamente con il bilancere.",
+    "NumeroSerie": 4,
+    "NumeroRipetizioni": 10,
+    "SecondiRecupero": 90,
+    "MuscoloID": 2,
+    "VideoURL": "'https://www.youtube.com/embed/GkAUg4-BC10'"
+  },
+  {
+    "EsercizioID": 8,
+    "NomeEsercizio": "Bicipite Corda Bassa",
+    "Descrizione": " Sollevare la corda con i piedi paralleli e le gambe leggermente piegate, muovere solo l&apos;avambraccio controllando il movimento.",
+    "NumeroSerie": 3,
+    "NumeroRipetizioni": 20,
+    "SecondiRecupero": 60,
+    "MuscoloID": 2,
+    "VideoURL": "'https://www.youtube.com/embed/GkAUg4-BC10'"
+  },
+  {
+    "EsercizioID": 9,
+    "NomeEsercizio": "French Press",
+    "Descrizione": "Posizionarsi sulla panca piana con il bilancere in presa stretta, tenere i gomiti stretti e una volta posizionato scendere solo con l&apos;avambraccio e poi eseguire una distensione completa.",
+    "NumeroSerie": 4,
+    "NumeroRipetizioni": 8,
+    "SecondiRecupero": 90,
+    "MuscoloID": 3,
+    "VideoURL": "'https://www.youtube.com/embed/GkAUg4-BC10'"
+  },
+  {
+    "EsercizioID": 10,
+    "NomeEsercizio": "Cavo Alto Corda",
+    "Descrizione": "Posizionarsi tenendo il busto inclinato leggermente in avanti, le gambe leggermente piegate e parallele. Una volta posizionato abbassare la corda tenendo i gomiti stretti ed eseguire le ripetizioni con distensione completa del braccio.",
+    "NumeroSerie": 4,
+    "NumeroRipetizioni": 12,
+    "SecondiRecupero": 60,
+    "MuscoloID": 3,
+    "VideoURL": "'https://www.youtube.com/embed/GkAUg4-BC10'"
+  },
+  {
+    "EsercizioID": 11,
+    "NomeEsercizio": "Dips",
+    "Descrizione": "Posizionarsi con le mani parallele sulle sbarre, mettere il petto in fuori e scendere rompendo l&apos;angolo di 90\u00c2\u00b0 e risalire con distensione completa.",
+    "NumeroSerie": 4,
+    "NumeroRipetizioni": 20,
+    "SecondiRecupero": 60,
+    "MuscoloID": 3,
+    "VideoURL": "'https://www.youtube.com/embed/GkAUg4-BC10'"
+  },
+  {
+    "EsercizioID": 12,
+    "NomeEsercizio": "Diamond Push Up",
+    "Descrizione": "Posizionarsi con il volto rivolto verso terra, le gambe unite e parallele, il busto sollevato, le mani unite che simulano la forma di un diamante posizionate al centro del petto. Una volta posizionati scendere e spingere pensando di farlo con il petto, il volto deve sfiorare il pavimento.",
+    "NumeroSerie": 4,
+    "NumeroRipetizioni": 20,
+    "SecondiRecupero": 60,
+    "MuscoloID": 3,
+    "VideoURL": "'https://www.youtube.com/embed/GkAUg4-BC10'"
+  },
+  {
+    "EsercizioID": 13,
+    "NomeEsercizio": "Military Press",
+    "Descrizione": "Posizionare le mani sul bilancere all&apos; altezza delle spalle e i piedi leggermente piegati. Una volta posizionati sollevare il bilancere sopra la testa con le braccia distese e successivamente scendere con il bilancere sotto il mento.",
+    "NumeroSerie": 5,
+    "NumeroRipetizioni": 5,
+    "SecondiRecupero": 90,
+    "MuscoloID": 4,
+    "VideoURL": "'https://www.youtube.com/embed/GkAUg4-BC10'"
+  },
+  {
+    "EsercizioID": 14,
+    "NomeEsercizio": "Alzate Laterali",
+    "Descrizione": "Prendere i manubri, piegare leggermente le gambe e le braccia leggermente piegate. Alzare lateralmente il peso seguendo una linea retta immaginaria.",
+    "NumeroSerie": 4,
+    "NumeroRipetizioni": 12,
+    "SecondiRecupero": 60,
+    "MuscoloID": 4,
+    "VideoURL": "'https://www.youtube.com/embed/GkAUg4-BC10'"
+  },
+  {
+    "EsercizioID": 15,
+    "NomeEsercizio": "AlzateFrontali",
+    "Descrizione": "Prendere il bilancere con le gambe leggermente piegate e il busto eretto. Una volta posizionato sollevare il bilancere verso l&apos;alto controllando il movimento in discesa.",
+    "NumeroSerie": 3,
+    "NumeroRipetizioni": 10,
+    "SecondiRecupero": 40,
+    "MuscoloID": 4,
+    "VideoURL": "'https://www.youtube.com/embed/GkAUg4-BC10'"
+  },
+  {
+    "EsercizioID": 16,
+    "NomeEsercizio": "Alzate Posteriori",
+    "Descrizione": "Posizionarsi seduti sulla panca con il busto appoggiato sulle gambe. Una volta posizionato sollevare i manubri posteriormente seguendo una linea retta immaginaria.",
+    "NumeroSerie": 4,
+    "NumeroRipetizioni": 12,
+    "SecondiRecupero": 90,
+    "MuscoloID": 4,
+    "VideoURL": "'https://www.youtube.com/embed/GkAUg4-BC10'"
+  },
+  {
+    "EsercizioID": 17,
+    "NomeEsercizio": "Lat Machine",
+    "Descrizione": "Prendere il bilancere con la presa pi\u00c3\u00b9 larga delle spalle di circa 10cm. Una volta posizionato tirare il bilancere verso il petto senza andare indietro con la schiena che dovr\u00c3\u00a0 essere leggermente inarcata.",
+    "NumeroSerie": 5,
+    "NumeroRipetizioni": 5,
+    "SecondiRecupero": 90,
+    "MuscoloID": 5,
+    "VideoURL": "'https://www.youtube.com/embed/GkAUg4-BC10'"
+  },
+  {
+    "EsercizioID": 18,
+    "NomeEsercizio": "Trazioni",
+    "Descrizione": "Prendere la sbarra con le mani pi\u00c3\u00b9 larghe delle spalle di circa 10cm. Una volta posizionato tirarsi verso la sbarra superandola con il mento e scendendo lentamente.",
+    "NumeroSerie": 4,
+    "NumeroRipetizioni": 15,
+    "SecondiRecupero": 90,
+    "MuscoloID": 5,
+    "VideoURL": "'https://www.youtube.com/embed/GkAUg4-BC10'"
+  },
+  {
+    "EsercizioID": 19,
+    "NomeEsercizio": "Pulley",
+    "Descrizione": "Prendere il triangolo e tenere il busto eretto con il petto in fuori. Una volta posizionato tirare il triangolo fino all&apos;ombelico e controllare il movimento.",
+    "NumeroSerie": 4,
+    "NumeroRipetizioni": 12,
+    "SecondiRecupero": 60,
+    "MuscoloID": 5,
+    "VideoURL": "'https://www.youtube.com/embed/GkAUg4-BC10'"
+  },
+  {
+    "EsercizioID": 20,
+    "NomeEsercizio": "Vertical Row",
+    "Descrizione": "Posizionarsi sull&apos;attrezzo con le mani leggermente pi\u00c3\u00b9 larghe della spalle. Una volta posizionato tirare il peso senza staccare il petto dalla panca di appoggio.",
+    "NumeroSerie": 3,
+    "NumeroRipetizioni": 10,
+    "SecondiRecupero": 60,
+    "MuscoloID": 5,
+    "VideoURL": "'https://www.youtube.com/embed/GkAUg4-BC10'"
+  },
+  {
+    "EsercizioID": 21,
+    "NomeEsercizio": "Squat Bil",
+    "Descrizione": "Posizionarsi sotto il bilancere con la schiena leggermente inarcata e l&apos;addome contratto. Una volta posizionato scendere con il bilancere rompendo i 90\u00c2\u00b0 con il gluteo e salire esplosivamente.",
+    "NumeroSerie": 5,
+    "NumeroRipetizioni": 5,
+    "SecondiRecupero": 90,
+    "MuscoloID": 6,
+    "VideoURL": "'https://www.youtube.com/embed/GkAUg4-BC10'"
+  },
+  {
+    "EsercizioID": 22,
+    "NomeEsercizio": "Stacco Gambe Tese",
+    "Descrizione": "Prendere il bilancere con le mani allineate alle spalle e il busto inarcato. Una volta posizionato tirare il peso tenendo il busto dritto e scendere lentamente.",
+    "NumeroSerie": 5,
+    "NumeroRipetizioni": 8,
+    "SecondiRecupero": 90,
+    "MuscoloID": 6,
+    "VideoURL": "'https://www.youtube.com/embed/GkAUg4-BC10'"
+  },
+  {
+    "EsercizioID": 23,
+    "NomeEsercizio": "Leg Press",
+    "Descrizione": "Posizionarsi sul macchinario con il busto dritto (non inarcato) e i piedi allineati. Una volta posizionato spingere con le gambe il peso.",
+    "NumeroSerie": 4,
+    "NumeroRipetizioni": 12,
+    "SecondiRecupero": 90,
+    "MuscoloID": 6,
+    "VideoURL": "'https://www.youtube.com/embed/GkAUg4-BC10'"
+  },
+  {
+    "EsercizioID": 24,
+    "NomeEsercizio": "Estensione Polpacci",
+    "Descrizione": "Posizionarsi sotto il macchinario con il busto dritto  ele gambe leggermente piegate. Una volta posizionato tirare il peso solo con il polpaccio, contraendo il muscolo ed estendendolo lentamente.",
+    "NumeroSerie": 4,
+    "NumeroRipetizioni": 20,
+    "SecondiRecupero": 60,
+    "MuscoloID": 6,
+    "VideoURL": "'https://www.youtube.com/embed/GkAUg4-BC10'"
+  }
+]
