@@ -7,6 +7,10 @@ this.onload = function(){
     
     fetch(BASE_URL + "Muscoli").then(x => x.json())
     .then(response => {
+        btnSearch.disabled = false;
+        btnRandom.disabled = false;
+
+
         while(selMuscoli.hasChildNodes()) selMuscoli.removeChild(selMuscoli.lastChild)
         for(let i = 0; i < response.length; i++) {
             let option = document.createElement("option");
@@ -67,7 +71,7 @@ function MostraCardsAllenamento(collection, div) {
         videoContainer.classList.add("video-container");
 
         let iframe = document.createElement("iframe");
-        iframe.src = collection[i]["videoURL"] + "?mute=1";
+        iframe.src = collection[i]["videoURL"] + "?mute=1&autoplay=1&loop=1";
         iframe.width = EMBED_VIDEO_WIDTH + "px";
         iframe.height = EMBED_VIDEO_HEIGHT + "px";
         iframe.title = "Video " + collection[i]["nomeEsercizio"];
